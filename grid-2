@@ -1,0 +1,10 @@
+<div class=”grid-container”>
+    <header class=”main-header”></header>
+    <main class=”main-content”></main>
+    <aside class=”main-side”>
+       <!-- doesn’t effected!!! -->
+       <div class=”child-of-child”></div>
+       <!-- doesn’t effected!!! -->
+</aside>
+    <footer class=”main-footer”></footer>
+</div>
